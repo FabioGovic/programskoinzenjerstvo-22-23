@@ -25,19 +25,19 @@ namespace M.Modeli
             switch (vrsta)
             {
                 case Type.Truck:
-                    fare = Konstanto.;
+                    fare = Konst.CIJENA_KAMIONA;
                     break;
                 case Type.Car:
-                    fare = Konstanto.;
+                    fare = Konst.CIJENA_AUTA;
                     break;
                 case Type.Bus:
-                    fare = Konstanto.;
+                    fare = Konst.CIJENA_BUSA;
                     break;
                 case Type.Van:
-                    fare = Konstanto.;
+                    fare = Konst.CIJENA_KAMIONA;
                     break;
                 default:
-                    fare = Konstanto.;
+                    fare = Konst.NULA;
                     break;
             }
         }
@@ -46,8 +46,8 @@ namespace M.Modeli
         public double GetvelicinaBat() => velicinaBat;
         public Type GetVrsta() => vrsta;
 
-        public void SetvelicinaRez() => velicinaRez = Konstanto.SIZE_HIGH;
-        public void SetvelicinaBat() => velicinaBat = Konstanto.SIZE_HIGH;
+        public void SetvelicinaRez() => velicinaRez = Konst.NAJVECA;
+        public void SetvelicinaBat() => velicinaBat = Konst.NAJVECA;
 
     }
 }

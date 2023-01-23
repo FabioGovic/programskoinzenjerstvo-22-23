@@ -9,7 +9,7 @@ namespace M.Modeli
     public class Trains
     {
         public enum Velicina { Small, Large }
-        private int capacity = Konstantno.ZERO;
+        private int capacity = Konst.NULA;
         private Velicina v;
 
 
@@ -17,9 +17,9 @@ namespace M.Modeli
         {
             this.v = v;
             if (v == Velicina.Small)
-                capacity = Konstantno.SMALL_TRAIN_SIZE;
+                capacity = Konst.MALI_VLAK_VEL;
             else
-                capacity = Konstantno.LARGE_TRAIN_SIZE;
+                capacity = Konst.VELIKI_VLAK_VEL;
         }
 
         public int GetCapacity() => capacity;
