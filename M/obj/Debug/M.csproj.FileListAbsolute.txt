@@ -1,0 +1,11 @@
+C:\Users\Fabio\Desktop\ProgramskoInzinjerstvo\M\obj\Debug\M.csproj.AssemblyReference.cache
+C:\Users\Fabio\Desktop\ProgramskoInzinjerstvo\M\obj\Debug\M.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fabio\Desktop\ProgramskoInzinjerstvo\M\obj\Debug\M.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Desktop\ProgramskoInzinjerstvo\M\bin\Debug\M.exe.config
+C:\Users\Fabio\Desktop\ProgramskoInzinjerstvo\M\bin\Debug\M.exe
+C:\Users\Fabio\Desktop\ProgramskoInzinjerstvo\M\bin\Debug\M.pdb
+C:\Users\Fabio\Desktop\ProgramskoInzinjerstvo\M\bin\Debug\nunit.framework.dll
+C:\Users\Fabio\Desktop\ProgramskoInzinjerstvo\M\bin\Debug\nunit.framework.xml
+C:\Users\Fabio\Desktop\ProgramskoInzinjerstvo\M\obj\Debug\M.csproj.CopyComplete
+C:\Users\Fabio\Desktop\ProgramskoInzinjerstvo\M\obj\Debug\M.exe
+C:\Users\Fabio\Desktop\ProgramskoInzinjerstvo\M\obj\Debug\M.pdb

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using M.Modeli;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,6 +9,6 @@ namespace M.Interface
 {
     internal interface IPark
     {
-        void Park(Vehicle vehicle, Employee employee);
+        void Park(Vehicles vehicle, Employee employee);
     }
 }
